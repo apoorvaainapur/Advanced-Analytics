@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"name": "Bangalore"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [77.50, 12.90],
+            [77.60, 12.90],
+            [77.60, 13.00],
+            [77.50, 13.00],
+            [77.50, 12.90]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Hyderabad"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [78.40, 17.30],
+            [78.50, 17.30],
+            [78.50, 17.40],
+            [78.40, 17.40],
+            [78.40, 17.30]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Kolkata"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [88.30, 22.50],
+            [88.40, 22.50],
+            [88.40, 22.60],
+            [88.30, 22.60],
+            [88.30, 22.50]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Delhi"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [77.10, 28.60],
+            [77.20, 28.60],
+            [77.20, 28.70],
+            [77.10, 28.70],
+            [77.10, 28.60]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Chennai"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [80.20, 13.00],
+            [80.30, 13.00],
+            [80.30, 13.10],
+            [80.20, 13.10],
+            [80.20, 13.00]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Mumbai"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.80, 18.90],
+            [72.90, 18.90],
+            [72.90, 19.00],
+            [72.80, 19.00],
+            [72.80, 18.90]
+          ]
+        ]
+      }
+    }
+  ]
+}
