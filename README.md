@@ -16,7 +16,7 @@ https://www.magicbricks.com/
 I have chosen this dataset to just get an idea of the housing prices in the biggest cities
 of my country, India.
 
-### Kex Questions:
+### Key Questions:
 1) Is there a relation between the rent and size of the home?
 2) Can we group the house listings into meaningful clusters for further analysis.
 
